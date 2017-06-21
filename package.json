@@ -1,0 +1,15 @@
+{
+  "name": "mc-templates",
+  "version": "1.0.0",
+  "description": "MailChimp Ready custom template with Stylus",
+  "keywords": [],
+  "author": "Chris Gotsikas",
+  "license": "GNU GPLv3",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-inline-source": "^3.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-stylus": "^2.6.0"
+  }
+}
